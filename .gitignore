@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 DataExport_2025-01-27/
 !docs/
+logs/
